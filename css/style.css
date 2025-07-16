@@ -19,7 +19,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     min-height: 100vh;
     line-height: 1.7;
-    background-image: url(../Imagens/bg-unsplash.png);
+    background-image: url(../imagens/bg-unsplash.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
